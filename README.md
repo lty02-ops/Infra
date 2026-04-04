@@ -1,5 +1,4 @@
 # 세대 별 컴퓨터의 구조는 어떻게 변화됬을까?
-<img width="512" height="768" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/e04cbae6-63eb-49dd-868e-b96bbbe0825e" />
 
 
 ## 세대별 기간 및 주요 부품
