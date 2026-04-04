@@ -1,3 +1,7 @@
+
+<img width="1024" height="1536" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/68728775-8c91-4b26-85d5-0474d2b18864" />
+
+
 # 세대 별 컴퓨터의 구조는 어떻게 변화됬을까?
 
 
