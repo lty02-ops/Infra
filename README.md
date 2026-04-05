@@ -453,9 +453,9 @@ GPU(Graphics Processing Unit)는 컴퓨터 그래픽 및 이미지 처리를 빠
 
 ## CPU와 GPU 차이점
 
-<img src="https://i.namu.wiki/i/0oWwVahv3-FA00cr2paxputk_luPbyu6hNcihgjNDS49AmpJaX4G27xLRpr9xPuCjwWECOmCTphXU_AouQx1-jpmhE0NcjX8fHq3P9PjGLQ2bQocWkNi5_S6Aq2aR7qqwtQllq0GDr4JSC9bLaEUOw.webp"  width="400">
+<img src="https://raw.githubusercontent.com/GRuuuuu/hololy-img-repo/main/2024/2024-02-05-gpu-basics.md/5.png"  width="400">
 
-> 출처 : https://namu.wiki/w/GPGPU
+> 출처 : https://gruuuuu.hololy.org/ai/gpu-basics/
 
 ### CPU
 
@@ -500,7 +500,7 @@ GPU는 슈퍼컴퓨터 수준으로 확장 가능
 
 NV링크, 인피니밴드 등 고속 인터커넥트로 여러 GPU 연결 → 초대형 AI 모델 처리 가능
 
-<img width="500" height="400" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/bcf44869-36d2-474a-83c5-78f20faf6552" />
+<img width="500" height="600" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/bcf44869-36d2-474a-83c5-78f20faf6552" />
 
 
 #### 4. AI 모델 성장에 필수
