@@ -500,7 +500,7 @@ GPU는 슈퍼컴퓨터 수준으로 확장 가능
 
 NV링크, 인피니밴드 등 고속 인터커넥트로 여러 GPU 연결 → 초대형 AI 모델 처리 가능
 
-<img width="500" height="300" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/bcf44869-36d2-474a-83c5-78f20faf6552" />
+<img width="500" height="400" alt="8a4e49b5-db1d-4104-8f85-5a4a1e7eaa78" src="https://github.com/user-attachments/assets/bcf44869-36d2-474a-83c5-78f20faf6552" />
 
 
 #### 4. AI 모델 성장에 필수
@@ -1405,13 +1405,18 @@ ex) RM 시리즈
 -   **고전력 구조 :** 여러 부품 동시 사용 → 높은 전력과 효율적인 전원 공급 필요
 -   **데이터 중심 설계 :** 저장·처리·전송 속도 모두 중요
 
+
 # 서버 컴퓨터 벤더, 네트워크 장비 벤더는 어느 곳이 존재할까?
 
 ### 서버 벤더
 
 #### 1. Dell Technologies
 
-![](https://www.notion.so/image/attachment%3Afe33c35c-6c69-439c-9d34-9bb7488fe10e%3Aimage.png?table=block&id=33005450-3961-80cc-a01b-de6cd0175b3d&spaceId=73f6cad6-6a1d-4fd0-b641-776582b8b00c&width=740&userId=bca87c13-e194-407d-9a66-dfaf437d8605&cache=v2)
+<img src="https://cdn.aitimes.kr/news/photo/202103/20574_30806_3156.jpg"  width="400">
+<br>
+
+> 출처 : https://www.aitimes.kr/news/articleView.html?idxno=20574
+
 
 **현재 시장 1위**
 
@@ -1427,7 +1432,10 @@ ex) RM 시리즈
 
 #### 2. Supermicro
 
-![](https://www.notion.so/image/attachment%3A5612d1eb-6e5f-46bb-94ea-da6507d8e41e%3Aimage.png?table=block&id=33005450-3961-80c4-a20d-f82d949382fc&spaceId=73f6cad6-6a1d-4fd0-b641-776582b8b00c&width=970&userId=bca87c13-e194-407d-9a66-dfaf437d8605&cache=v2)
+<img src="https://www.supermicro.com/files_SYS/images/System/SYS-510P-MR_main.jpg"  width="400">
+<br>
+
+> 출처 : https://www.supermicro.com/en/products/system/up/1u/sys-510p-mr
 
 **시장 2위 (최근 급성장)**
 
@@ -1453,7 +1461,6 @@ ex) RM 시리즈
 <br>
 #### 4. Lenovo
 
-![](https://www.notion.so/image/attachment%3A7fa490f6-9dda-4dbf-acb2-7687baf21315%3Aimage.png?table=block&id=33005450-3961-8012-9534-f95ced440371&spaceId=73f6cad6-6a1d-4fd0-b641-776582b8b00c&width=740&userId=bca87c13-e194-407d-9a66-dfaf437d8605&cache=v2)
 
 **IBM 서버 사업 인수 후 성장**
 
@@ -1464,8 +1471,6 @@ ex) RM 시리즈
 → **“가성비 + 안정성 밸런스형 서버”**
 <br>
 #### 5. Hewlett Packard Enterprise (HPE)
-
-![](https://www.notion.so/image/attachment%3Ab150cd01-aae0-47d0-bbd5-5b19f0248a26%3Aimage.png?table=block&id=33005450-3961-801d-9699-ea05460da7d9&spaceId=73f6cad6-6a1d-4fd0-b641-776582b8b00c&width=640&userId=bca87c13-e194-407d-9a66-dfaf437d8605&cache=v2)
 
 **ProLiant 시리즈**
 
@@ -1532,5 +1537,6 @@ ex) RM 시리즈
 
 
 # 우리 집 네트워크 다이어그램
+<img width="600" height="400" alt="cc458002-6480-4ad8-bd69-abfaa1f67676" src="https://github.com/user-attachments/assets/c5f557e3-eb08-4cc7-b567-18372f39b751" />
 
 **인터넷 → 모뎀 → 공유기 → (유선 + 무선) 여러 기기**
