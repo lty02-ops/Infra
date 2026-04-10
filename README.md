@@ -1,4 +1,4 @@
-<img width="424" height="104" alt="image" src="https://github.com/user-attachments/assets/241c0ce8-a380-4fa2-a132-f1c3c14b85fa" /># 세대 별 컴퓨터의 구조는 어떻게 변화됬을까?
+#세대 별 컴퓨터의 구조는 어떻게 변화됬을까?
 
 
 ## 세대별 기간 및 주요 부품
