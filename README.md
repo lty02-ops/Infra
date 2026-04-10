@@ -1162,12 +1162,6 @@ ex) RM 시리즈
 
 #### 1. Dell Technologies
 
-<img src="https://cdn.aitimes.kr/news/photo/202103/20574_30806_3156.jpg"  width="400">
-<br>
-
-> 출처 : https://www.aitimes.kr/news/articleView.html?idxno=20574
-
-
 **현재 시장 1위**
 
 **대표 제품: PowerEdge 시리즈**
@@ -1183,11 +1177,6 @@ ex) RM 시리즈
 
 #### 2. Supermicro
 
-<img src="https://www.supermicro.com/files_SYS/images/System/SYS-510P-MR_main.jpg"  width="400">
-<br>
-
-> 출처 : https://www.supermicro.com/en/products/system/up/1u/sys-510p-mr
-
 **시장 2위 (최근 급성장)**
 
 **GPU 서버 / AI 서버 강자**
@@ -1196,12 +1185,11 @@ ex) RM 시리즈
 
 **but, 너무 많아서 고르기 어려움**
 
-→** “AI·GPU 서버 특화**
+**→ AI·GPU 서버 특화**
+
 <br>
 <br>
 #### 3. IEIT Systems
-
-![](https://www.notion.so/image/attachment%3A1b39adaa-601b-468c-b30c-4b380f7a5ee2%3Aimage.png?table=block&id=33005450-3961-80bf-b63b-c0239f4bcc8c&spaceId=73f6cad6-6a1d-4fd0-b641-776582b8b00c&width=640&userId=bca87c13-e194-407d-9a66-dfaf437d8605&cache=v2)
 
 **중국 기반 서버 기업 (Inspur 계열)**
 
